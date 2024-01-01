@@ -56,8 +56,3 @@ The Python script follows a structured approach:
 - Explore additional metrics for customer satisfaction.
 - Implement predictive modeling for flight occupancy.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-
